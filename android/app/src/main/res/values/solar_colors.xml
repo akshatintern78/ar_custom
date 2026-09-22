@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="solar_teal">#FF1FA6A0</color>
+    <color name="solar_teal_dark">#FF147A76</color>
+    <color name="solar_bg">#FF0B0F10</color>
+    <color name="solar_panel">#E6121A1C</color>
+    <color name="solar_text">#FFFFFFFF</color>
+    <color name="solar_text_muted">#B3FFFFFF</color>
+    <color name="solar_yellow">#FFF5C542</color>
+    <color name="solar_control_bg">#CC12181A</color>
+</resources>

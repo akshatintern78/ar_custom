@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="solar_ar_title">Solar AR</string>
+    <string name="done">Done</string>
+    <string name="move">Move</string>
+    <string name="rotate">Rotate</string>
+    <string name="reset">Reset</string>
+    <string name="tap_to_place">Point the back camera at the rooftop, then tap to place the 3D panels</string>
+    <string name="tap_to_reposition">3D panels locked to the surface · Move / Rotate below</string>
+    <string name="scanning_surface">Scanning rooftop surface…</string>
+    <string name="loading_solar_design">Loading 3D solar model…</string>
+    <string name="unable_to_load">Unable to load solar design.</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+    <string name="camera_permission_required">Camera permission is required to use Solar AR.</string>
+    <string name="open_solar_ar">View AR</string>
+    <string name="view_ar">View AR</string>
+    <string name="design_rooftop">Design rooftop</string>
+</resources>
